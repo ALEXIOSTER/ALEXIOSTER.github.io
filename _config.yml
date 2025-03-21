@@ -1,3 +1,16 @@
-theme: minima
-title: My Portfolio
-description: A minimalist portfolio showcasing my projects and CV.
+title: "My Portfolio"
+description: "A stylish Jekyll-based portfolio showcasing my projects and CV."
+theme: minima  # You can replace this with another theme like "minimal-mistakes"
+baseurl: ""  # Leave blank for GitHub Pages
+url: "https://ALEXIOSTER.github.io"
+
+# Navigation Links
+header_pages:
+  - index.md
+  - projects.md
+  - CV.md
+
+# Social Links
+github: ALEXIOSTER
+linkedin: your-linkedin
+email: alexioskonsta@gmail.com
