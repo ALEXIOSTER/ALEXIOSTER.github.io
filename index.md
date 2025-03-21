@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Portfolio 🎨
 
-👋 Hi! I'm Alexios Konsyantopoulos, a passionate developer.  
+👋 Hi! I'm Alexios Konstantopoulos, a passionate developer.  
 This portfolio showcases my **projects**, **skills**, and **CV**.
 
 ## 📌 About Me
